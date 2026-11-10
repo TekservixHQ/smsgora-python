@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "smsgora"
-version = "1.0.0"
+version = "1.0.1"
 description = "Official Python client for the SMS Gora SMS Gateway: send and receive SMS through your own Android phones, with delivery reports and signed webhooks."
 readme = "README.md"
 license = "MIT"
@@ -23,5 +23,5 @@ classifiers = [
 [project.urls]
 Homepage = "https://tekservix.com/smsgora/"
 Documentation = "https://tekservix.com/smsgora/docs/"
-Source = "https://github.com/ellyj164/smsgora-python"
-Issues = "https://github.com/ellyj164/smsgora-python/issues"
+Source = "https://github.com/tekservixhq/smsgora-python"
+Issues = "https://github.com/tekservixhq/smsgora-python/issues"
