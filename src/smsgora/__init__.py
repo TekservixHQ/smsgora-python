@@ -12,7 +12,7 @@ import urllib.parse
 import urllib.request
 
 __all__ = ["SmsGora", "SmsGoraError", "verify_webhook"]
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 
 DEFAULT_BASE_URL = "https://tekservix.com/smsgora/api/v1"
 

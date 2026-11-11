@@ -4,14 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "smsgora"
-version = "1.0.1"
-description = "Official Python client for the SMS Gora SMS Gateway: send and receive SMS through your own Android phones, with delivery reports and signed webhooks."
+version = "1.0.2"
+description = "SMS Gora SMS Gateway: official Python client by Tekservix. Send and receive SMS through your own Android phones, with delivery reports and signed webhooks."
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [{ name = "Tekservix", email = "support@tekservix.com" }]
 requires-python = ">=3.8"
-keywords = ["sms", "sms-gateway", "sms-api", "bulk-sms", "send-sms", "android-sms-gateway", "otp", "textbee", "smsgora", "tekservix"]
+keywords = ["sms", "sms-api-gateway", "sms-gateway", "sms-api", "bulk-sms", "send-sms", "android-sms-gateway", "otp", "textbee", "smsgora", "tekservix"]
 classifiers = [
   "Programming Language :: Python :: 3",
   "Operating System :: OS Independent",
